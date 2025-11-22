@@ -133,5 +133,7 @@ $RECYCLE.BIN/
 _NCrunch*
 
 # Project Specific
+/.vs/
+/[Bb]uild/
 *.zip
 *.snl
